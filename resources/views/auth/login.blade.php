@@ -1,5 +1,5 @@
 @include ('layouts.page')
-
+<title>Nearspot | Login </title>
 <div class="d-flex justify-content-center align-items-center vh-100">
     <div class="card p-4 shadow-lg" style="width: 100%; max-width: 400px; border-radius: 10px;">
         <h3 class="text-center mb-4">Connexion</h3>
